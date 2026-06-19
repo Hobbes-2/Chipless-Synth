@@ -1,6 +1,9 @@
 A cool chipless synth PCB! Made for the Chipless ysws.
 
 Pictures:
+
+
+
 <img width="522" height="501" alt="Screenshot_20260618_132800" src="https://github.com/user-attachments/assets/82eaaeef-629c-443b-9f96-41bc5d4ecc1a" />
 <img width="591" height="596" alt="Screenshot_20260619_080920" src="https://github.com/user-attachments/assets/757593c7-8338-404a-b9b8-7bdb77f34c29" />
 <img width="1159" height="732" alt="Screenshot_20260619_080912" src="https://github.com/user-attachments/assets/d811c115-10f7-4f58-8be3-93af5567297f" />
