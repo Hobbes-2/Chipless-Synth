@@ -2506,7 +2506,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "10k"
 			(at 147.32 82.5499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2996,7 +2996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 49.53 64.4652 0)
 			(hide yes)
 			(show_name no)
@@ -3067,7 +3067,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 99.06 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3385,7 +3385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 143.8148 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -3543,7 +3543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 62.23 64.4652 0)
 			(hide yes)
 			(show_name no)
@@ -3623,7 +3623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 173.99 61.2648 0)
 			(hide yes)
 			(show_name no)
